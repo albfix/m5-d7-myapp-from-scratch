@@ -19,7 +19,8 @@
   "homepage": "https://github.com/albfix/m5-d7-myapp-from-scratch#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-list-endpoints": "^4.0.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
